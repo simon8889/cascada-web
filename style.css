@@ -219,6 +219,12 @@ nav {
     text-decoration: none;
     color: #adbbad;
     font-size: 15px;
+    padding: 3px;
+    transition: all ease-in 0.5s;
+}
+
+.links a:hover {
+    font-size: 18px;
 }
 
 @media (max-width: 800px) {
